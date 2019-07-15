@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\Debug\PingSensor5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PingSensor5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PingSensor5.map</FILE>
+  <FILE>PingSensor5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>36</LINE></RESET>
+  <ISR_TOV0><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>132</LINE></ISR_TOV0>
+  <ISR_TIMER4_CAPT><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>138</LINE></ISR_TIMER4_CAPT>
+  <MAIN_LOOP><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>79</LINE></MAIN_LOOP>
+  <OVF1><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>81</LINE></OVF1>
+  <DISABLE_TOV0><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>206</LINE></DISABLE_TOV0>
+  <SET_DDRL0_OUTPUT><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>150</LINE></SET_DDRL0_OUTPUT>
+  <PULSE_OUTPUT_PL0><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>167</LINE></PULSE_OUTPUT_PL0>
+  <SET_DDRL0_INPUT><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>158</LINE></SET_DDRL0_INPUT>
+  <WAIT_FOR_RISING_EDGE><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>91</LINE></WAIT_FOR_RISING_EDGE>
+  <SET_FALLING_EDGE_DETECTION><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>190</LINE></SET_FALLING_EDGE_DETECTION>
+  <WAIT_FOR_FALLING_EDGE><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>101</LINE></WAIT_FOR_FALLING_EDGE>
+  <SET_RISING_EDGE_DETECTION><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>182</LINE></SET_RISING_EDGE_DETECTION>
+  <RED_ON><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>115</LINE></RED_ON>
+  <GREEN_ON><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>111</LINE></GREEN_ON>
+  <MAIN_LOOP_RETURN><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>120</LINE></MAIN_LOOP_RETURN>
+  <ENABLE_TOV0><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>198</LINE></ENABLE_TOV0>
+  <OVF2><FILE>C:\Users\Matt\Documents\Atmel Studio\7.0\PingSensor5\PingSensor5\main.asm</FILE><LINE>124</LINE></OVF2>
+ </LABELS>
+</ASSEMBLER_INFO>
